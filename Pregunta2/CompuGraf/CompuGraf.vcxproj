@@ -69,7 +69,7 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\Users\Carlos\Desktop\Universidad\Compu Grafica\Practicando\CompuGraf\CompuGraf\libs;$(IncludePath)</IncludePath>
+    <IncludePath>C:\Users\Carlos\Desktop\Prt\prt\Pregunta2\CompuGraf\libs;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -78,7 +78,7 @@
       <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
-      <AdditionalLibraryDirectories>C:\Users\Carlos\Desktop\Universidad\Compu Grafica\Practicando\CompuGraf\CompuGraf\libs;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Carlos\Desktop\Prt\prt\Pregunta2\CompuGraf\libs;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glut32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
